@@ -45,4 +45,4 @@ uppercase no
 default_color FFFFFF
  
 TEXT
-${execp ~/.Conky/bin/viewnotes.sh}
+${execp ~/.Conky/conky-dashboard/bin/viewnotes.sh}
